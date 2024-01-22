@@ -110,7 +110,7 @@ namespace COMP003A.Assignment1
             Console.WriteLine("97. I have not finished painting my room orange");
             Console.WriteLine("98. I love Calico Critters and love buying the furniture");
             Console.WriteLine("99. My favorite animals are cats");
-            Console.WriteLine("100. I want to buy a desktop but I have no room for one";
+            Console.WriteLine("100. I want to buy a desktop but I have no room for one");
         }
     }
 }
