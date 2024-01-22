@@ -86,7 +86,31 @@ namespace COMP003A.Assignment1
             Console.WriteLine("73. I feel like the school year has been flying by so fast");
             Console.WriteLine("74. I hope to be able to successfully be a web developer within 2 years");
             Console.WriteLine("75. I am taller than my grandma. She is around 5 foot while I am around 5'7");
-
+            Console.WriteLine("76. I have big feet");
+            Console.WriteLine("77. I have back acne");
+            Console.WriteLine("78. I cut my own bangs");
+            Console.WriteLine("79. I have two birth marks");
+            Console.WriteLine("80. One of my birth marks which is on my left arm is near a mole");
+            Console.WriteLine("81. My other birth mark is on my foot");
+            Console.WriteLine("82. I love chocolate");
+            Console.WriteLine("83. I decided to try to walk/speedwalk/jog on the treadmill at least 30 mins a day for 5x a week");
+            Console.WriteLine("84. have an illness called MS that affects my nerves. It still does not affect me very much");
+            Console.WriteLine("85. I started to feel anxiety when I was in my final semester of high school");
+            Console.WriteLine("86. I love to make random voices");
+            Console.WriteLine("87. My favorite sodas are squirt, sprite, and coke");
+            Console.WriteLine("88. I hate most diet sodas except coke zero. It is the only one that doesn't have a nasty aftertaste to me");
+            Console.WriteLine("89. My favorite chocolates are Hersheys and reeses");
+            Console.WriteLine("90. I love to paint but I never have time for it");
+            Console.WriteLine("91. I love to laugh");
+            Console.WriteLine("92. I am usually always in a good mood and happy");
+            Console.WriteLine("93. I plan to live in the dorms during the fall semester");
+            Console.WriteLine("94. I am really excited to learn a lot more about C# and do some projects with it");
+            Console.WriteLine("95. I am really excited about the future but I am also worried about it.");
+            Console.WriteLine("96. My favorite fruits are oranges and bananas");
+            Console.WriteLine("97. I have not finished painting my room orange");
+            Console.WriteLine("98. I love Calico Critters and love buying the furniture");
+            Console.WriteLine("99. My favorite animals are cats");
+            Console.WriteLine("100. I want to buy a desktop but I have no room for one";
         }
     }
 }
