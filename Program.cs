@@ -61,7 +61,32 @@ namespace COMP003A.Assignment1
             Console.WriteLine("48. I have lived in the same house for nearly my whole life. My dad got lucky");
             Console.WriteLine("49. I used to be a dog person up until I was 12");
             Console.WriteLine("50. I used to live in an apartment when I was in my first 2 years at Fresno State before COVID");
-            Console.WriteLine()
+            Console.WriteLine("51. I hated one of my roommates because she complained of everything");
+            Console.WriteLine("52. I have an iPhone 11 that I got as a graduation gift");
+            Console.WriteLine("53. I want to own a flip phone again one day. I feel too dependent on my phone");
+            Console.WriteLine("54. I do not want to have any children. Maybe one but that is it");
+            Console.WriteLine("55. I love to play video games on my free time");
+            Console.WriteLine("56. I like to play Minecraft. I have played since I was around 12.");
+            Console.WriteLine("57. I like to play the Sims 3 and 4 but 3 lags a lot more since it is open world");
+            Console.WriteLine("58. I like to play Roblox with my cousins");
+            Console.WriteLine("59. My laptop is my 3rd laptop. My first two were HP and they sucked");
+            Console.WriteLine("60. I bought a gaming laptop because they run faster and I can play games on it");
+            Console.WriteLine("61. I have an obsession with houses and especially older houses");
+            Console.WriteLine("62. I want to buy a Victorian house one day.");
+            Console.WriteLine("63. I want to live either on Hunington Boulevard or on Van Ness in Fresno");
+            Console.WriteLine("64. My first car was a Honda Accord. I love it so much");
+            Console.WriteLine("65. I know a few words in Japanese");
+            Console.WriteLine("66. I can speak, read, and understand Spanish");
+            Console.WriteLine("67. I have been to Mexico at least 10 times during Winter break for vacation");
+            Console.WriteLine("68. My oldest cat is almost 5 years old");
+            Console.WriteLine("69. I have one female cat and she is the sassiest");
+            Console.WriteLine("70. I have over 7,000 photos on my phone which are mostly of my cats");
+            Console.WriteLine("71. I took a class on doing CPR");
+            Console.WriteLine("72. I have been way better about drinking water these days");
+            Console.WriteLine("73. I feel like the school year has been flying by so fast");
+            Console.WriteLine("74. I hope to be able to successfully be a web developer within 2 years");
+            Console.WriteLine("75. I am taller than my grandma. She is around 5 foot while I am around 5'7");
+
         }
     }
 }
